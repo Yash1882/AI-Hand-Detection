@@ -1,6 +1,6 @@
-# 🤖 ai-hand-detection
+# 🤖 AI-hand-detection
 ## 👋 About this project
-This is a web AI hand detection. You can use it in your web browser. This web application uses the camera of your device to detect your hand.
+Step into a world where your hand becomes the ultimate tool! Our web AI hand detection, using your device's camera, redefines interaction. Navigate effortlessly with a wave, making technology respond to your every move. It's not just a feature; it's a glimpse into the future of intuitive web experiences
 
 ## ⚙️ Features
 
