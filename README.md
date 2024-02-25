@@ -15,8 +15,6 @@ Step into a world where your hand becomes the ultimate tool! Our web AI hand det
 ## 💪 Try it
 If you are not convinced yet just try it out here: https://woody.pizza/tensorflow/hand-detection/
 
-There is also an example where you can control the mouse by using your hand: https://woody.pizza/tensorflow/hand-detection/mouse
-
 ## 🌐 Multiple browser support
 Probably this will work with the most browsers, but here is a list which browsers I have tested: 
 
