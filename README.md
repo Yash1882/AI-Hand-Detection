@@ -13,7 +13,7 @@ Step into a world where your hand becomes the ultimate tool! Our web AI hand det
 <a href="https://ibb.co/T15LJDH"><img src="https://i.ibb.co/Vx8mb0v/Screenshot-2021-04-08-AI-hand-detection.png" alt="live AI-hand-detection"></a>
 
 ## 💪 Try it
-If you are not convinced yet just try it out here: https://woody.pizza/tensorflow/hand-detection/
+If you are not convinced yet just try it out here: https://ai-hand-detection.vercel.app/
 
 ## 🌐 Multiple browser support
 Probably this will work with the most browsers, but here is a list which browsers I have tested: 
